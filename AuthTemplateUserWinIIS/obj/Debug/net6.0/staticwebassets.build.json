@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KbmKRVV+YTUkYE3YUJpjUGDkBLT8K8AyqlV+Hy8eZNE=",
+  "Source": "AuthTemplateUserWinIIS",
+  "BasePath": "_content/AuthTemplateUserWinIIS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
