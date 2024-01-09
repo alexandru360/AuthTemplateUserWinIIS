@@ -10,7 +10,7 @@
 	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
 	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.9" />
 	  <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="6.0.9" />
-	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
 	  <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
   </ItemGroup>
 
